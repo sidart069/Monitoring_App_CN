@@ -1,6 +1,9 @@
 # **Cloud Native Monitoring App on Kubernetes**
 
 
+## Architecture Diagram
+![Architecture](templates/System_design.jpg)
+
 # Project flow 
 ## **Part 1: Deploying the Flask application locally**
 
