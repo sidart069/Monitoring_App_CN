@@ -1,4 +1,4 @@
-# **Cloud Native Monitoring App on K8s!**
+# **Cloud Native Monitoring App on Kubernetes**
 
 
 # Project flow 
